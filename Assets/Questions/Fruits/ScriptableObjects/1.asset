@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aad484775090ca44ab7d876d0e363211, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  name: Muz
+  question: {fileID: 21300000, guid: 379c3b6d71537324983bd85aedf29b48, type: 3}
+  answer: banana
+  isTrue: 0
+  piece: {fileID: 8366331184912029042, guid: 7f4e6ea4c1ab7b543b10723588509f16, type: 3}
+  pieceNum: 1

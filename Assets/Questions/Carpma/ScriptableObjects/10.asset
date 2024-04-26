@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aad484775090ca44ab7d876d0e363211, type: 3}
+  m_Name: 10
+  m_EditorClassIdentifier: 
+  name: 
+  question: {fileID: 21300000, guid: 8124cd81fbb32b44983efc5a4888c1d1, type: 3}
+  answer: "k\u0131rk sekiz"
+  isTrue: 1
+  piece: {fileID: 5025497850067722969, guid: b1a273e7b2b5d1e48b0cefa2948d9346, type: 3}
+  pieceNum: 10

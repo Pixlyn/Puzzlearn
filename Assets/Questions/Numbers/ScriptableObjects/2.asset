@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aad484775090ca44ab7d876d0e363211, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  name: iki
+  question: {fileID: 21300000, guid: bba3c15a86089c740b60cfcce783aa10, type: 3}
+  answer: two
+  isTrue: 0
+  piece: {fileID: 4407242677097140957, guid: 53b63261fd505eb41b84bb4f4f721da3, type: 3}
+  pieceNum: 2

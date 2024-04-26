@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/mainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu/Oyna/Kare/kareKolay.unity
+    guid: f15e840c5f534da4fbcea05057a99667
+  - enabled: 1
+    path: Assets/Scenes/Menu/Oyna/Kare/kareNormal.unity
+    guid: ab4dcbbca89773d408f459961455265e
+  - enabled: 1
+    path: Assets/Scenes/Menu/Oyna/Kare/kareZor.unity
+    guid: dd83c4a8d0648d04e9936ea91904f4b3
+  - enabled: 1
+    path: Assets/Scenes/Menu/Oyna/Klasik/klasikKolay.unity
+    guid: 755f6f088d868d0488569a2f355d2fa4
+  - enabled: 1
+    path: Assets/Scenes/Menu/Oyna/Klasik/klasikNormal.unity
+    guid: cfcbef543d1a2744fbd1807181760fbd
+  - enabled: 1
+    path: Assets/Scenes/Menu/Oyna/Klasik/klasikZor.unity
+    guid: dcb5909d772e1a94a97e318ddf3e49ed
+  - enabled: 1
+    path: Assets/Scenes/Menu/Ogren/Ingilizce/englishMenu.unity
+    guid: 15f763e99c4b6b64ca6ac23fd27bb7a5
+  - enabled: 1
+    path: Assets/Scenes/Menu/Ogren/Ingilizce/Animals/Animals.unity
+    guid: ac6cc309c4933de40b8eacce9e5fa97f
+  - enabled: 1
+    path: Assets/Scenes/Menu/Ogren/Ingilizce/Fruits/Fruits.unity
+    guid: b18a71904a7c3904895a3c451435173d
+  - enabled: 1
+    path: Assets/Scenes/Menu/Ogren/Ingilizce/Numbers/Numbers.unity
+    guid: af58df90095b83e4c8f1b8ff1176fb2f
+  - enabled: 1
+    path: Assets/Scenes/Menu/Ogren/Ingilizce/Vegetables/Vegetables.unity
+    guid: 7cea48290b0745f41af51e05542cef0c
+  - enabled: 1
+    path: Assets/Scenes/Menu/Ogren/Temel/temelMenu.unity
+    guid: b3ca8ed48acdd88479cc67a2194c12b5
+  - enabled: 1
+    path: Assets/Scenes/Menu/Ogren/Temel/Hayvanlar/Hayvanlar.unity
+    guid: 103644727778ef344bd8d1ffb22070ef
+  - enabled: 1
+    path: "Assets/Scenes/Menu/Ogren/Temel/Say\u0131lar/Sayilar.unity"
+    guid: e82cacc35b7efa9478c7154349b26da9
+  - enabled: 1
+    path: Assets/Scenes/Menu/Ogren/Temel/Meyveler/Meyveler.unity
+    guid: 7dc09127ac8de6a4985a5a3955786669
+  - enabled: 1
+    path: Assets/Scenes/Menu/Ogren/Temel/Sebzeler/Sebzeler.unity
+    guid: 27a8018817efdc84e912acdf72574e65
+  - enabled: 1
+    path: Assets/Scenes/Menu/Ogren/Matematik/matematikMenu.unity
+    guid: 360fcb6ffbc2f0747ab080856d5815dc
+  - enabled: 1
+    path: Assets/Scenes/Menu/Ogren/Matematik/Toplama/Toplama.unity
+    guid: 1349e87b1639aeb4fa2b0655d1b8ec23
+  - enabled: 1
+    path: "Assets/Scenes/Menu/Ogren/Matematik/C\u0131karma/Cikarma.unity"
+    guid: 703adc4295539e54bbc19ad7c6d8cab0
+  - enabled: 1
+    path: Assets/Scenes/Menu/Ogren/Matematik/Carpma/Carpma.unity
+    guid: d56532662db32d1448cd28987bb7165d
+  - enabled: 1
+    path: Assets/Scenes/Menu/Ogren/Matematik/Bolme/Bolme.unity
+    guid: b7ebb08bf2e0cdb4786ed385ae3d8bb0
+  m_configObjects: {}

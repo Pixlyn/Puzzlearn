@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aad484775090ca44ab7d876d0e363211, type: 3}
+  m_Name: 16
+  m_EditorClassIdentifier: 
+  name: Marul
+  question: {fileID: 21300000, guid: 9570bde78dbda7f499ae7921e778536a, type: 3}
+  answer: lettuce
+  isTrue: 0
+  piece: {fileID: 4772112394287443728, guid: 562aef6dcd674634299cb9d169d93083, type: 3}
+  pieceNum: 16
